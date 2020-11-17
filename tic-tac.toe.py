@@ -1,5 +1,8 @@
+import os
 def clear():
-    os.system( 'cls' )
+    os.system("ls")
+    os.system('clear')
+
 
 
 def display_board(board):
